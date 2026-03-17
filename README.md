@@ -27,7 +27,11 @@ Manual test suites, Issue tracking samples, and Automated scripts
 
 3. Automation Framework (WIP)
 
-    Python Test Scripts: Initial automated sequences for critical path regression.
+    Python Test Scripts: Initial automated sequences for critical path regression. This project also includes a simple Python script to generate test cases automatically.
+
+Run:
+
+python generate_test_cases.py "user login"
 
     Architecture Foundation: Scalable folder structure and configuration files for future test expansion.
 
